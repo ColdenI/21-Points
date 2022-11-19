@@ -1,0 +1,13 @@
+G:\progect c#\21Points\obj\Release\21Points.csproj.AssemblyReference.cache
+G:\progect c#\21Points\obj\Release\_21Points.AboutForm.resources
+G:\progect c#\21Points\obj\Release\_21Points.FormatForm.resources
+G:\progect c#\21Points\obj\Release\_21Points.MainForm.resources
+G:\progect c#\21Points\obj\Release\_21Points.Properties.Resources.resources
+G:\progect c#\21Points\obj\Release\_21Points.RulesForm.resources
+G:\progect c#\21Points\obj\Release\21Points.csproj.GenerateResource.cache
+G:\progect c#\21Points\obj\Release\21Points.csproj.CoreCompileInputs.cache
+G:\progect c#\21Points\bin\Release\21 Points.exe.config
+G:\progect c#\21Points\bin\Release\21 Points.exe
+G:\progect c#\21Points\bin\Release\21 Points.pdb
+G:\progect c#\21Points\obj\Release\21 Points.exe
+G:\progect c#\21Points\obj\Release\21 Points.pdb
